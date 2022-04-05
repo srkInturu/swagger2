@@ -14,5 +14,4 @@ for swagger UI
 http://localhost:4242/swagger-ui.html
 
 
-https://user-images.githubusercontent.com/103008424/161682264-58a3080b-e46e-4be1-a750-3f547bbc976a.png
-
+https://user-images.githubusercontent.com/103008424/161682400-9bb216d8-ab1b-4db3-ba01-b7fc964d6a45.png
